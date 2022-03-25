@@ -24,3 +24,20 @@
 ### Подробное задание и решение с приведением чеклистов, багрепортов смотреть [здесь](https://docs.google.com/spreadsheets/d/1CmX2fnix3lPucRwRDTssbr8hRdVLEkyv/edit?usp=sharing&ouid=114929245957469185341&rtpof=true&sd=true)
 
 ---
+# Тестирование приложения Reminder
+
+* сборка приложения на эмуляторе Android Studio;
+
+* сборка приложения на реальном телефоне;
+
+* сборка .apk файла и установка на реальном телефоне;
+
+* Adhoc тестирование приложения;
+
+* Smoke чеклист для прооверки приложения;
+
+* Rergression чеклист для прооверки приложения;
+
+* End-to-End сценарии тестирования приложения.
+
+### Подробное задание и решение с приведением чеклистов, багрепортов смотреть [здесь](https://docs.google.com/spreadsheets/d/1-Ut1sO9j3XEX5l-pcXElcUEwaQcNA81n/edit?usp=sharing&ouid=114929245957469185341&rtpof=true&sd=true)
